@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "typescript": "^4.8.2"
+    "express": "^4.18.1"
   }
 }
